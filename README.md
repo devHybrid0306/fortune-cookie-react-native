@@ -7,8 +7,8 @@ built simple pages from figma design
 - iOS
 cd ios/
 pod install
-###npx react-native run-ios --simulator="iPhone 11"
- you can change simulator whatever you want.
+### npx react-native run-ios --simulator="iPhone 11"
+you can change simulator whatever you want.
 - Android
 ### npx react-native run-android
 
@@ -20,5 +20,5 @@ pod install
 ### Showing fortune item detail page as modal dialog with fade animation
 ### Clicking `+`floating button allows you navigate to inputting page.
  - When keyboard is shown, `done` button will be appeared, vice-versa when keyboard is hidden, `done` button wll be disappeared.
-Integrated snapshot testing for 3 components using jest library
+### Integrated snapshot testing for 3 components using jest library
 
