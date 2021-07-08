@@ -1,7 +1,7 @@
 # fortune-cookie-react-native
 demo react native app
 built simple pages from figma design
-
+https://drive.google.com/file/d/1CeYKrdYbddZjxpv9yrHkUAIVzIDeDCeC/view?usp=sharing
 ## How to run project
 ### npm install
 - iOS
