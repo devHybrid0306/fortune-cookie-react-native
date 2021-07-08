@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-import { RatioW, width } from '../../utils';
+import { RatioW } from '../../utils';
 
 const styles = StyleSheet.create({
   modal: {

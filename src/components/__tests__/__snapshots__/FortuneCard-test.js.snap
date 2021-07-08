@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "center",
+        "backgroundColor": "rgb(157,79,213)",
+        "borderRadius": 40,
+        "height": 440,
+        "justifyContent": "space-between",
+        "marginBottom": 20,
+        "marginLeft": 6,
+        "marginRight": 6,
+        "padding": 40,
+        "width": 325,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 30,
+          "marginBottom": 40,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgba(255, 255, 255, .2)",
+          "borderRadius": 20,
+          "justifyContent": "center",
+          "width": 240,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontSize": 24,
+            "padding": 6,
+            "textAlign": "center",
+          }
+        }
+      >
+        July 7 2021
+      </Text>
+    </View>
+  </View>
+</View>
+`;
